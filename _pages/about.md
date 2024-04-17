@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Project by Junhuan Ni"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
